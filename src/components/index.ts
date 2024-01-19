@@ -1,0 +1,6 @@
+export {AsideBar} from "./Navbar/AsideBar"
+export { ActiveLink } from "./Link/ActiveLink"
+export { ShoppingCard } from "./Cards/ShoppingCard"
+export { PokemonGrid } from "./pokemons/PokemonGrid"
+export { PokemonCard } from "./pokemons/PokemonCard"
+export { SimpleWidget } from "./Cards/SimpleWidget"
